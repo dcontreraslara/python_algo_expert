@@ -35,3 +35,4 @@ def getYoungestCommonAncestor(topAncestor, descendantOne, descendantTwo):
 
 
 
+print(ord('a'))
