@@ -23,3 +23,4 @@ def powerIter(array):
 
 print(powerset([1,2]))
 print(powerIter([1,2]))
+
